@@ -1,0 +1,10 @@
+(lab2) adityabaravkar@Adityas-MacBook-Pro lab2 % python predict-car-price.py
+$11914 lines loaded
+|    | make   | model      |   engine_cylinders | transmission_type   | driven_wheels    |   number_of_doors | market_category                       | vehicle_size   | vehicle_style   |   highway_mpg |   city_mpg |   popularity |   msrp |   msrp_pred |
+|---:|:-------|:-----------|-------------------:|:--------------------|:-----------------|------------------:|:--------------------------------------|:---------------|:----------------|--------------:|-----------:|-------------:|-------:|------------:|
+|  0 | bmw    | 1_series_m |                  6 | manual              | rear_wheel_drive |                 2 | factory_tuner,luxury,high-performance | compact        | coupe           |            26 |         19 |         3916 |  46135 |     51347.7 |
+|  1 | bmw    | 1_series   |                  6 | manual              | rear_wheel_drive |                 2 | luxury,performance                    | compact        | convertible     |            28 |         19 |         3916 |  40650 |     37624.8 |
+|  2 | bmw    | 1_series   |                  6 | manual              | rear_wheel_drive |                 2 | luxury,high-performance               | compact        | coupe           |            28 |         20 |         3916 |  36350 |     38191.4 |
+|  3 | bmw    | 1_series   |                  6 | manual              | rear_wheel_drive |                 2 | luxury,performance                    | compact        | coupe           |            28 |         18 |         3916 |  29450 |     18789.2 |
+|  4 | bmw    | 1_series   |                  6 | manual              | rear_wheel_drive |                 2 | luxury                                | compact        | convertible     |            28 |         18 |         3916 |  34500 |     18789.2 |
+(lab2) adityabaravkar@Adityas-MacBook-Pro lab2 % 
