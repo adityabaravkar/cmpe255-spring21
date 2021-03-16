@@ -1,0 +1,3 @@
+kaggle-cli==0.12.13
+numpy
+sklearn
